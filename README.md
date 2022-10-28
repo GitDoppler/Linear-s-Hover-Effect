@@ -29,15 +29,10 @@ Users should be able to:
 ### Screenshot
 
 ![](assets/desktop-version.png)
-![](assets/mobile-version.png)
 
 ### Links
 
 - Live Site URL: [OfficeLite](https://gitdoppler.github.io/Officelite/)
-
-This was done in 2 parts :
-1) Creating the "items" (options) for both mobile and desktop, making sure the banner-images were implemented in the correct way.
-2) Creating the hovering animation with the diffused flashlight effect.
 
 ## My process
 
