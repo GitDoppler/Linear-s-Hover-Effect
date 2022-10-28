@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [OfficeLite](https://gitdoppler.github.io/Officelite/)
+- Live Site URL: [Linears Hover Effect](https://gitdoppler.github.io/Linears-Hover-Effect/)
 
 ## My process
 
