@@ -65,7 +65,7 @@ Users should be able to:
 }
 ```
 
-```html
+```css
 .fake-border::after {
     content: "";
     border-radius: inherit;
