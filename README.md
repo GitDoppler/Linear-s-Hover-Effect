@@ -45,7 +45,7 @@ Users should be able to:
 ### What I learned
 
 - The usefulness of pseudo-elements (::after + ::before), how they can be used for different kinds of styling.
-```html
+```css
 .fake-border::before {
 
     content: "";
